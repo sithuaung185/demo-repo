@@ -6,4 +6,4 @@ Some description!
 
 Did I finally crack this?
 
-Yes, yes I did.
+Yes, I did
